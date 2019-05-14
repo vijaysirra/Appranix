@@ -54,7 +54,6 @@ Appranix assumes that customers have OpenShift 3 and 4 clusters running. If you 
 
 ## Install Appranix Controller Agent for Discovering Clusters
 <br><br/>
-
 Discovering cluster resources requires a small sidecar controller agent. This is easy with a cut and paste of a curl command as shown below. Once the agent is installed on OpenShift 3 & 4, all the cluster resources, including namespaces, deployments, pods, services, and host of other resources for the migration will be automatically discovered by Appranix.
 
 ![alt text](images/CPS-Image-Blog-Updated/c3tooc4-images/c3tooc4-images/image9.png "Agent for Discovering Clusters")
@@ -69,8 +68,7 @@ This section shows how an example distributed microservices application called S
 
 Appranix discovers all the resources, including, PoDs, deployments, services, and all the cluster configurations necessary to protect and migrate to OpenShift 4. 
 
-<center>####OpenShift 3 running SockShop Application
-</center>
+<p align="center"> OpenShift 3 running SockShop Application </p>
 
 ![alt text](images/CPS-Image-Blog-Updated/c3tooc4-images/c3tooc4-images/image16.png "OpenShift 3 running SockShop Application")
 <br><br/>
