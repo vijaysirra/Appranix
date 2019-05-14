@@ -31,9 +31,7 @@ Appranix is a technology and business partner of Red Hat. We worked closely with
 ![alt text](images/CPS-Image-Blog-Updated/c3tooc4-images/c3tooc4-images/image1.png "Production Plan Creation")
 
 ## App-Centric Disaster Recovery for OpenShift Applications             
-<center><span style="font-size: 1.5em;">
-(Optional - 14 day trial after the migration)</span></span></center>
-
+<p align="center"><span style="font-size: 1.5em;"> (Optional - 14 day trial after the migration) </span></p>
 ![alt text](images/CPS-Image-Blog-Updated/c3tooc4-images/c3tooc4-images/image4.png "Disaster Recovery for OpenShift Applications")
 <br><br/>
 
@@ -68,7 +66,7 @@ This section shows how an example distributed microservices application called S
 
 Appranix discovers all the resources, including, PoDs, deployments, services, and all the cluster configurations necessary to protect and migrate to OpenShift 4. 
 
-<p align="center"> OpenShift 3 running SockShop Application </p>
+<p align="center"><span style="font-size: 1.5em;"><b> OpenShift 3 running SockShop Application </b></span></p>
 
 ![alt text](images/CPS-Image-Blog-Updated/c3tooc4-images/c3tooc4-images/image16.png "OpenShift 3 running SockShop Application")
 <br><br/>
